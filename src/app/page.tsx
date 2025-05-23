@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 
-export const Page = () => {
+export const Home = () => {
     return (
         <div>
             <h1 className="text-2xl">Hello Nextjs 15.3</h1>
@@ -9,4 +9,4 @@ export const Page = () => {
     );
 };
 
-export default Page;
+export default Home;
